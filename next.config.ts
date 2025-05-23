@@ -1,4 +1,4 @@
-import { IS_ENVIRONMENT_DEV } from "@/app/env";
+import { IS_ENVIRONMENT_DEV } from "@/env";
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
